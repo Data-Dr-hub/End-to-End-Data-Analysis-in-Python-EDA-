@@ -57,5 +57,7 @@ The dataset contains:
 **408,294 rows** – each row represents a different trip.
 
 **18 columns**
+
+
 ![](dic1.PNG)
 ![](dic2.PNG)
