@@ -1,4 +1,4 @@
-![](Automatidata_image.jpeg)
+![](automatidata_image.jpeg)
 
 # Overview 
 
@@ -33,11 +33,12 @@ I also notice a follow-up email from Udo Bankole, the Director of Data Analysis.
 * _Note: Team member names used in this workplace scenario are fictional and are not representative of the New York City TLC._
 
 
-**Email from Luana Rodriguez, Senior Data Analyst:**
+**<ins>Email from Luana Rodriguez, Senior Data Analyst:**
 
 ![](LuanaMail.PNG)
 
-**Email from Udo Bankole, Director of Data Analysis**
+
+**<ins>Email from Udo Bankole, Director of Data Analysis:**
 
 ![](UdoMail.PNG)
 
