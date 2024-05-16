@@ -24,7 +24,7 @@ I have been asked to clean, join, validate, and create a visualization for the t
 
 _**[Here](Members_List.md) is a list of the team members of Automatidata and the New York City TLC**_
 
-# Exploratory Data Analysis
+# 1. Exploratory Data Analysis
 
 The team is still in the early stages of the project for the New York City Taxi and Limousine Commission (TLC). So far, I have completed a project proposal and used Python to inspect and organize the TLC dataset.
 
@@ -71,3 +71,5 @@ The dataset contains:
 
 
 - Refer to [Exploratory Data Analysis](Exploratory_Data_Analysis.ipynb) for the detailed EDA phase. 
+
+# 2. 
