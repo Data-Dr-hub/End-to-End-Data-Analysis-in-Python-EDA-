@@ -71,3 +71,8 @@ The dataset contains:
 
 
 - Refer to [Exploratory Data Analysis](Exploratory_Data_Analysis.ipynb) for the detailed EDA phase. 
+
+
+Thanks for your time.
+
+_Up Next is Statistics and Regression Analysis_>>>> **Watch Out**
