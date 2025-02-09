@@ -24,34 +24,16 @@ I have been asked to clean, join, validate, and create a visualization for the t
 
 _**[Here](Members_List.md) is a list of the team members of Automatidata and the New York City TLC**_
 
-# 1. Exploratory Data Analysis
+# PHASE 1. Exploratory Data Analysis
 
 The team is still in the early stages of the project for the New York City Taxi and Limousine Commission (TLC). So far, I have completed a project proposal and used Python to inspect and organize the TLC dataset.
 
 I checked my inbox and noticed a new message from _Luana Rodriguez_, the Senior Data Analyst at Automatidata. Luana is pleased with the work I have already completed and requests my assistance with some exploratory data analysis (EDA) and data visualization. 
 
-I also notice a follow-up email from Udo Bankole, the Director of Data Analysis. Udo suggests including an executive summary of my analysis to share with teammates. 
-
 * _Note: Team member names used in this workplace scenario are fictional and are not representative of the New York City TLC._
 
-
-**<ins>Email from Luana Rodriguez, Senior Data Analyst:**
-
-![](LuanaMail.PNG)
-
-
-**<ins>Email from Udo Bankole, Director of Data Analysis:**
-
-![](UdoMail.PNG)
-
-
-## <ins>Reference Guide:
-This project has 6 tasks. The visual below identifies the various stages of the EDA phase:
-![](stages.PNG)
-
 ## <ins>Data Dictionary:
-This project uses a dataset called [ 
-2017_Yellow_Taxi_Trip_Data.csv](2017_Yellow_Taxi_Trip_Data.csv). 
+This project uses a dataset called [Taxi_Trip_Data.csv](2017_Yellow_Taxi_Trip_Data.csv).
 
 It contains data gathered by the New York City Taxi & Limousine Commission. For each trip, there are many different data variables gathered. 
 
@@ -61,7 +43,6 @@ The dataset contains:
 
 **18 columns**
 
-
 ![](dic1.PNG)
 ![](dic2.PNG)
 
@@ -70,7 +51,7 @@ The dataset contains:
 - Refer to [NYC Open Data](https://data.cityofnewyork.us/Transportation/2017-Yellow-Taxi-Trip-Data/biws-g3hs) for more information related to this dataset.
 
 
-- Refer to [Exploratory Data Analysis](Exploratory_Data_Analysis.ipynb) for the detailed EDA phase. 
+- Refer to the [Python Notebook](Exploratory_Data_Analysis.ipynb) for the detailed EDA phase. 
 
 
 Thanks for your time.
