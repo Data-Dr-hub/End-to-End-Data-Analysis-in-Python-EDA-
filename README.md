@@ -14,7 +14,13 @@ Automatidata works with its clients to transform their unused and stored data in
 
 Automatidata is consulting for the New York City Taxi and Limousine Commission (TLC). New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles. The agency has partnered with Automatidata to develop a regression model that helps estimate taxi fares before the ride, based on data that TLC has gathered. 
 
-The TLC data comes from over 200,000 taxi and limousine licensees, making approximately one million combined trips per day. 
+The project would be in 4 phases:
+1. **Exploratory Data Analysis** of their dataset.
+2. **A/B Test:** To sample data and analyze whether there is a relationship between `payment type` and `fare amount`. For example: discover if customers who use credit cards pay higher fare amounts than customers who use cash.
+3. **Regression Analysis:** To predict taxi fare amounts.
+4. **Machine Learning:** To build a machine learning model to predict if a customer will not leave a tip. They want to use the model in an app that will alert taxi drivers to customers who are unlikely to tip, since drivers depend on tips.
+
+The TLC data comes from over 200,000 taxi and limousine licensees, making approximately one million combined trips per day.
 
 **_Note: This project's dataset was created for pedagogical purposes and may not be indicative of New York City taxi cab riders' behavior._**
 
@@ -56,4 +62,4 @@ The dataset contains:
 
 Thanks for your time.
 
-_Up Next is Statistics and Regression Analysis_>>>> **Watch Out**
+# PHASE 2. A/B Testing
