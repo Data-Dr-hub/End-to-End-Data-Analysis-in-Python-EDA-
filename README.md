@@ -87,5 +87,6 @@ For example: discover if customers who use credit cards pay higher fare amounts 
 So, 
 * What key business insight(s) emerged from our A/B test? and
 * What business recommendations can be propose based on the results?
+  
 Refer to [AB Testing Notebook](AB_Testing.ipynb) for detailed analysis and results.
 
