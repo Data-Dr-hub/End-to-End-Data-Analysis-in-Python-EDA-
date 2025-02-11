@@ -62,4 +62,30 @@ The dataset contains:
 
 Thanks for your time.
 
+
 # PHASE 2. A/B Testing
+
+The current project for their newest client, the New York City Taxi & Limousine Commission (New York City TLC) is reaching its midpoint, having completed a project proposal, Python coding work, and exploratory data analysis.
+
+I received a new email from Uli King, Automatidata’s project manager. Uli tells my team about a new request from the New York City TLC: to analyze the relationship between **fare amount** and **payment type**. I also discover follow-up emails from three other team members: Deshawn Washington, Luana Rodriguez, and Udo Bankole. These emails discuss the details of the analysis. 
+
+A final email from Luana includes my specific assignment: to conduct an A/B test. 
+
+Our A/B test result aims to find ways to generate more revenue for taxi cab drivers.
+
+**Note:** For the purpose of this exercise, it is assumed that the sample data comes from an experiment in which customers are randomly selected and divided into two groups: 
+
+1) customers who are required to pay with credit card, 
+2) customers who are required to pay with cash. 
+
+Without this assumption, we cannot draw causal conclusions about how payment method affects fare amount.
+
+**The goal:** The goal for this A/B test is to sample data and analyze whether there is a relationship between **payment type** and **fare amount**. 
+
+For example: discover if customers who use credit cards pay higher fare amounts than customers who use cash.
+
+So, 
+* What key business insight(s) emerged from our A/B test? and
+* What business recommendations can be propose based on the results?
+Refer to [AB Testing Notebook](AB_Testing.ipynb) for detailed analysis and results.
+
